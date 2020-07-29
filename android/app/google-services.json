@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "272059670540",
+    "firebase_url": "https://uber-5e16d.firebaseio.com",
+    "project_id": "uber-5e16d",
+    "storage_bucket": "uber-5e16d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272059670540:android:a0679bf8ef38b480658e29",
+        "android_client_info": {
+          "package_name": "com.cursoflutter.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272059670540-rba2495l4j0hot6uim3p17hv9f510eud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoflutter.uber",
+            "certificate_hash": "8fac6ff880369962a3f93280cda4d9d0475957ba"
+          }
+        },
+        {
+          "client_id": "272059670540-vdekg9tmh0umgn7o0qq38f8q2ljb73fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs8OVD2KIJ8Fcln1l0fsHypsTuhMEdUKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272059670540-vdekg9tmh0umgn7o0qq38f8q2ljb73fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
